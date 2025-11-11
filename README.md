@@ -29,16 +29,16 @@ The app allows users to **create, read, update, and delete** personal notes with
 ---
 note-taking-app/
 │
-├── client/               # React Frontend
+├── client/                      # React Frontend
 │   ├── src/
 │   │   ├── components/
 │   │   ├── context/
 │   │   └── App.js
 │   └── package.json
 │
-├── bakcend/               # Node.js + Express Backend
+├── backend/                     # Node.js + Express Backend
 │   ├── routes/
-│   ├── db
+│   ├── db/
 │   ├── models/
 │   ├── middleware/
 │   ├── utils/
