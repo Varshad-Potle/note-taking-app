@@ -26,28 +26,6 @@ The app allows users to **create, read, update, and delete** personal notes with
 **Authentication:** JWT (JSON Web Token), bcrypt with salt & pepper  
 **Environment:** dotenv, cors, nodemon
 
----
-note-taking-app/
-│
-├── client/                      # React Frontend
-│   ├── src/
-│   │   ├── components/
-│   │   ├── context/
-│   │   └── App.js
-│   └── package.json
-│
-├── backend/                     # Node.js + Express Backend
-│   ├── routes/
-│   ├── db/
-│   ├── models/
-│   ├── middleware/
-│   ├── utils/
-│   ├── server.js
-│   └── package.json
-│
-└── README.md
-
-
 ### 🧩 Prerequisites
 
 Make sure you have the following installed on your system:
